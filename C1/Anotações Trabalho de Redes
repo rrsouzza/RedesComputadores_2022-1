@@ -1,0 +1,33 @@
+1- Um ataque DoS (Denial of Service, ou Negação de Serviços) consiste na tentativa de tornar os recursos e ferramentas de um sistema indisponíveis para seus usuários. Comumente os alvos de um ataque DoS são servidores Web, que procuram tornar suas páginas indisponíveis na rede. 
+
+-O objetivo principal não consiste necessariamente em invadir o sistema em si, mas tirá-los do ar através de uma invalidação por sobrecarga.
+
+-Servidores/sistemas possuem uma limitação natural quanto à sua capacidade de processar tarefas. Um servidor web (ou sistema em geral) que recebe muitas requisições e é sobrecarregado, chegará ao ponto de negar serviço. Isso causa uma dificuldade, ou até impedimento, do sistema executar suas tarefas normalmente.
+
+DDoS:
+
+-Ataques DDoS (Distributed Denial of Service, ou Negação de Serviços Distribuída) é um tipo de ataque DoS em grande escala. Pode utilizar de milhares de computadores para atacar um determinado alvo, "distribuindo" o ataque entre as máquinas. São bem conhecidos pelo fato de serem executados há bastante tempo e já terem prejudicado grandes empresas, como Amazon, Microsoft, Yahoo, etc. 
+
+Para um ataque DDoS ser bem-sucedido, necessita-se ter controle sobre uma grande quantidade de computadores. Para isso, uma das melhores formas encontradas foi a de inserir programas de ataque DDoS dentro de softwares maliciosos (malware).
+
+O interesse em computadores domésticos cresceu bastante por parte de autores de ataques DDoS ao longo dos anos. Com o constante aumento das conexões banda larga e, consequentemente, aumento das velocidades de acesso à internet, tornou-se necessário possuir controle sobre cada vez mais computadores afim que um ataque pudesse ter êxito.
+Por existirem em grande quantidade e, no geral, haver um descuido por parte dos usuários quanto à segurança ao navegar pela internet, computadores domésticos se tornaram o principal alvo de malfeitores.
+
+Afim de serem invadidos, foram criados os malwares com a intenção de distribuir pequenos programas para ataques DoS. Assim, um computador que é contaminado por um vírus de tal capacidade, se torna "disponível" para realizar um ataque DoS. Muitas vezes todo esse processo ocorre "por baixo dos panos", sem que o usuário sequer fique sabendo que seu computador está sendo utilizado para tal fim.
+Ataques realizados a partir de uma grande quantidade de computadores também dificulta a identificação do computador principal responsável pelo ataque.
+
+
+BYOD:
+
+-A tendẽncia do conceito de BYOD (Bring Your Own Device) é de crescer cada vez mais, como já vem crescendo ao longo dos anos. A ideia é que todo usuário possa acessar todo tipo de conteúdo, em qualquer lugar e horário, com qualquer dispositivo.
+Já foi a época, por exemplo, das chamadas "Lan House". Um lugar onde as pessoas pagavam para utilizar um computador, acessar a internet, imprimir documentos, etc. Com o avanço da tecnologia e da internet, tornou-se cada vez mais fácil e acessível utilizar de todas as ferramentas que um computador tem a oferecer.
+
+Com isso, tornou-se necessário que as empresas adaptassem à nova realidade. Com uma enorme variedade de aparelhos circulando pelo mercado, os novos (e também antigos) produtos digitais precisaram passar a ser desenvolvidos afim que fossem compatíveis com múltiplos dispositivos, de sistemas e fabricantes diferentes. Essa nova realidade fez necessário a criação de soluções digitais novas, assim como a criação de ferramentas novas que auxiliem na criação dessas novas soluções.
+
+O conceito de BYOD permite aos usuários finais que acessem informações e se comuniquem em qualquer lugar, em qualquer momento. Isso inclui, por exemplo, redes empresariais, ou de universidades/escolas. Assim, estudantes, professores e funcionários podem possuir dispositivos móveis avançados para uso pessoal. Sejam notebooks, tablets, smartphones, ou qualquer outro dispositivo, eles podem ser adquiridos tanto pela empresa ou escola, quanto pelo próprio indivíduo.
+
+O dia-a-dia de praticamente toda civilização globalizada envolve algum tipo de comunicação ou interação com algum meio digital. Especialmente na rotina diária de qualquer empresa, quaisquer que seja seu ramo ou tamanho. Isso torna necessário que as empresas disponilizem meios que seus usuários (sejam funcionários, professores, estudantes, clientes, etc) tenham acesso à internet.
+
+Com a vinda da internet sem fio (o conhecido WiFi), muitas empresas e instituições de ensino passaram a disponibilizar redes em suas dependências acessíveis por qualquer usuário devidamente credenciado. Isso permite que todos possam utilizar de suas ferramentas e plataformas digitais a qualquer momento que for necessário.
+
+Todo esse novo ecossistema exige investimentos financeiros e estruturas preparadas para atender às necessidades do novo mundo. Isso também causa uma grande necessidade de profissionais qualificados para desenvolver e manter esses sistemas. O próprio mercado passa a filtrar as empresas e profissionais que não se mantém atualizados com as novas exigências e necessidades do mundo, deixando essas empresas e funcionários de escanteio.
