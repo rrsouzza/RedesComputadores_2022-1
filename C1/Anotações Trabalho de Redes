@@ -29,3 +29,24 @@ O conceito de BYOD permite aos usuários finais que acessem informações e se c
 BYOD gira em torno do fato dos consumidores passarem a adquirir e utilizar smartphones e outros dispositivos móveis como ferramentas do dia-a-dia. Porém, para atender essa demanda enorme de usuários, torna necessário a adaptação e investimentos por parte das empresas e instituições.
 
 Esse novo ecossistema exige estruturas preparadas para atender às necessidades do novo mundo. Isso também causa uma grande necessidade de profissionais qualificados para desenvolver e manter esses sistemas. O próprio mercado passa a filtrar as empresas e profissionais que não estão em constante adaptação às mudanças do mundo tecnológico e às necessidades dos usuários finais. O curso natural para entidades defasadas é a derrota.
+
+
+
+4 QUARTA QUESTÃO 
+
+“Quais são os dois benefícios da utilização de um modelo de rede em camadas?” 
+
+Um modelo de rede em camadas ajuda a “desconstruir” todo o processo de como uma rede opera, e auxilia na definição de protocolos e no gerenciamento dos mesmos. Tendo o modelo dividido em partes ajuda no projeto de protocolos pois o protocolo que atua em cima de uma camada possui suas definições próprias de como tratar as informações pelas quais é responsável, assim como possui uma interface definida para as camadas acima e abaixo. 
+
+Um modelo padrão e bem definido também possibilita que diferentes fornecedores e fabricantes produzam produtos e dispositivos diferentes que utilizam dos mesmos protocolos de comunicação, permitindo um crescimento exponencial do mercado de tecnologia.  
+
+Ter um modelo de rede dividido em camadas também impede que mudanças ou melhorias de tecnologia realizadas em uma camada afete outra camada do modelo. 
+
+ 
+
+5 QUINTA QUESTÃO 
+
+“Por que dois fios de fibra são usados para uma única conexão de fibra óptica?”
+
+Em um fio de fibra óptica, a luz consegue "viajar" em apenas uma direção. Portanto, foram necessárias duas fibras para suportar a chamada operação "Full Duplex". Assim, os cabos de conexão de fibra agrupam dois cabos de fibra óptica, tendo no final um par de conectores padrão de fibra.
+Alguns conectores de fibra aceitam ambas fibras de transmissão e recepção de um único conector, tendo o nome de "Conector Duplex".
